@@ -7,3 +7,5 @@ I'm Alexsandro Oliveira.<br>
 I'm a back end developer 💻 ✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsfo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsfo=compact)](https://github.com/anuraghazra/github-readme-stats)
