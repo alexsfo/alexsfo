@@ -5,3 +5,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
 I'm Alexsandro Oliveira.<br>
 I'm a back end developer 💻 ✨
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsfo)](https://github.com/anuraghazra/github-readme-stats)
